@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AmitCSQuizKtApp" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:colorPrimary">@color/purple_200</item>
+
+        <item name="android:statusBarColor">@color/purple_200</item>
+    </style>
+
+    <style name="Theme.AmitCSQuizKtApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
